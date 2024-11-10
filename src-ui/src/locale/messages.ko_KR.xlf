@@ -3619,7 +3619,7 @@
           <context context-type="sourcefile">src/app/components/common/custom-fields-query-dropdown/custom-fields-query-dropdown.component.html</context>
           <context context-type="linenumber">79</context>
         </context-group>
-        <target state="needs-translation">True</target>
+        <target state="translated">참</target>
       </trans-unit>
       <trans-unit id="3800326155195149498" datatype="html">
         <source>False</source>
@@ -3635,7 +3635,7 @@
           <context context-type="sourcefile">src/app/components/common/custom-fields-query-dropdown/custom-fields-query-dropdown.component.html</context>
           <context context-type="linenumber">80</context>
         </context-group>
-        <target state="needs-translation">False</target>
+        <target state="translated">거짓</target>
       </trans-unit>
       <trans-unit id="7551700625201096185" datatype="html">
         <source>Search docs...</source>
@@ -3643,7 +3643,7 @@
           <context context-type="sourcefile">src/app/components/common/custom-fields-query-dropdown/custom-fields-query-dropdown.component.html</context>
           <context context-type="linenumber">96</context>
         </context-group>
-        <target state="needs-translation">Search docs...</target>
+        <target state="translated">문서 검색...</target>
       </trans-unit>
       <trans-unit id="3184700926171002527" datatype="html">
         <source>Any</source>
@@ -3691,7 +3691,7 @@
           <context context-type="sourcefile">src/app/components/common/custom-fields-query-dropdown/custom-fields-query-dropdown.component.html</context>
           <context context-type="linenumber">131</context>
         </context-group>
-        <target state="needs-translation">Not</target>
+        <target state="translated">아님</target>
       </trans-unit>
       <trans-unit id="6548676277933116532" datatype="html">
         <source>Add query</source>
@@ -3699,7 +3699,7 @@
           <context context-type="sourcefile">src/app/components/common/custom-fields-query-dropdown/custom-fields-query-dropdown.component.html</context>
           <context context-type="linenumber">150</context>
         </context-group>
-        <target state="needs-translation">Add query</target>
+        <target state="translated">쿼리 추가</target>
       </trans-unit>
       <trans-unit id="5599577087865387184" datatype="html">
         <source>Add expression</source>
@@ -3707,7 +3707,7 @@
           <context context-type="sourcefile">src/app/components/common/custom-fields-query-dropdown/custom-fields-query-dropdown.component.html</context>
           <context context-type="linenumber">153</context>
         </context-group>
-        <target state="needs-translation">Add expression</target>
+        <target state="translated">표현식 추가</target>
       </trans-unit>
       <trans-unit id="6052766076365105714" datatype="html">
         <source>now</source>
@@ -4135,7 +4135,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/mail-rule-edit-dialog/mail-rule-edit-dialog.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
-        <target state="needs-translation">Order</target>
+        <target state="translated">순서</target>
       </trans-unit>
       <trans-unit id="4816216590591222133" datatype="html">
         <source>Enabled</source>
@@ -4163,7 +4163,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/mail-rule-edit-dialog/mail-rule-edit-dialog.component.html</context>
           <context context-type="linenumber">27</context>
         </context-group>
-        <target state="needs-translation">Paperless will only process mails that match <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/>all<x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> of the criteria specified below.</target>
+        <target state="translated">Paperless는 아래 지정된 필터들을 <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/>모두<x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> 만족하는 메일만 처리합니다.</target>
       </trans-unit>
       <trans-unit id="7046259383943324039" datatype="html">
         <source>Folder</source>
@@ -4251,7 +4251,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/mail-rule-edit-dialog/mail-rule-edit-dialog.component.html</context>
           <context context-type="linenumber">46</context>
         </context-group>
-        <target state="needs-translation">Include only files matching</target>
+        <target state="translated">다음과 일치하는 파일만 포함</target>
       </trans-unit>
       <trans-unit id="7233407036155150477" datatype="html">
         <source>Optional. Wildcards e.g. *.pdf or *invoice* allowed. Can be comma-separated list. Case insensitive.</source>
@@ -4263,7 +4263,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/mail-rule-edit-dialog/mail-rule-edit-dialog.component.html</context>
           <context context-type="linenumber">47</context>
         </context-group>
-        <target state="needs-translation">Optional. Wildcards e.g. *.pdf or *invoice* allowed. Can be comma-separated list. Case insensitive.</target>
+        <target state="translated">선택 사항. 와일드카드 예: *.pdf 또는 *invoice* 사용 가능. 쉼표로 구분된 목록일 수 있습니다. 대소문자 구분 없음.</target>
       </trans-unit>
       <trans-unit id="1546332577833742677" datatype="html">
         <source>Exclude files matching</source>
@@ -4271,7 +4271,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/mail-rule-edit-dialog/mail-rule-edit-dialog.component.html</context>
           <context context-type="linenumber">47</context>
         </context-group>
-        <target state="needs-translation">Exclude files matching</target>
+        <target state="translated">다음과 일치하는 파일 제외</target>
       </trans-unit>
       <trans-unit id="9216117865911519658" datatype="html">
         <source>Action</source>
@@ -4287,7 +4287,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/mail-rule-edit-dialog/mail-rule-edit-dialog.component.html</context>
           <context context-type="linenumber">53</context>
         </context-group>
-        <target state="needs-translation">Only performed if the mail is processed.</target>
+        <target state="translated">메일이 처리될 때만 수행됩니다.</target>
       </trans-unit>
       <trans-unit id="1261794314435932203" datatype="html">
         <source>Action parameter</source>
@@ -4519,7 +4519,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/storage-path-edit-dialog/storage-path-edit-dialog.component.html</context>
           <context context-type="linenumber">13</context>
         </context-group>
-        <target state="needs-translation">See &lt;a target='_blank' href='https://docs.paperless-ngx.com/advanced_usage/#file-name-handling'&gt;the documentation&lt;/a&gt;.</target>
+        <target state="translated">다음 &lt;a target='_blank' href='https://docs.paperless-ngx.com/advanced_usage/#file-name-handling'&gt;문서&lt;/a&gt;를 참조하세요.</target>
       </trans-unit>
       <trans-unit id="1295614462098694869" datatype="html">
         <source>Preview</source>
@@ -4539,7 +4539,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/storage-path-edit-dialog/storage-path-edit-dialog.component.html</context>
           <context context-type="linenumber">30</context>
         </context-group>
-        <target state="needs-translation">Path test failed</target>
+        <target state="translated">경로 테스트 실패됨</target>
       </trans-unit>
       <trans-unit id="9116034231465034307" datatype="html">
         <source>No document selected</source>
@@ -4547,7 +4547,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/storage-path-edit-dialog/storage-path-edit-dialog.component.html</context>
           <context context-type="linenumber">32</context>
         </context-group>
-        <target state="needs-translation">No document selected</target>
+        <target state="translated">선택된 문서가 없음</target>
       </trans-unit>
       <trans-unit id="2083498114116917092" datatype="html">
         <source>Search for a document</source>
@@ -4555,7 +4555,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/storage-path-edit-dialog/storage-path-edit-dialog.component.html</context>
           <context context-type="linenumber">38</context>
         </context-group>
-        <target state="needs-translation">Search for a document</target>
+        <target state="translated">문서 검색</target>
       </trans-unit>
       <trans-unit id="6423278459497515329" datatype="html">
         <source>No documents found</source>
@@ -5348,7 +5348,7 @@
           <context context-type="sourcefile">src/app/components/common/input/document-link/document-link.component.html</context>
           <context context-type="linenumber">50</context>
         </context-group>
-        <target state="needs-translation">Not found</target>
+        <target state="translated">찾을 수 없음</target>
       </trans-unit>
       <trans-unit id="5676637575587497817" datatype="html">
         <source>Search for documents</source>
@@ -5356,7 +5356,7 @@
           <context context-type="sourcefile">src/app/components/common/input/document-link/document-link.component.ts</context>
           <context context-type="linenumber">53</context>
         </context-group>
-        <target state="needs-translation">Search for documents</target>
+        <target state="translated">문서 검색</target>
       </trans-unit>
       <trans-unit id="8627133593113147800" datatype="html">
         <source>Selected items</source>
@@ -7879,7 +7879,7 @@
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
           <context context-type="linenumber">253</context>
         </context-group>
-        <target state="needs-translation">Sort by number of pages</target>
+        <target state="translated">페이지 수로 정렬</target>
       </trans-unit>
       <trans-unit id="3817498941817715969" datatype="html">
         <source>Pages</source>
@@ -8107,7 +8107,7 @@
           <context context-type="sourcefile">src/app/components/document-list/filter-editor/filter-editor.component.ts</context>
           <context context-type="linenumber">238</context>
         </context-group>
-        <target state="needs-translation">Custom fields query</target>
+        <target state="translated">사용자 정의 필드 쿼리</target>
       </trans-unit>
       <trans-unit id="6523384805359286307" datatype="html">
         <source>Title: <x id="PH" equiv-text="rule.value"/></source>
@@ -8415,7 +8415,7 @@
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
           <context context-type="linenumber">18</context>
         </context-group>
-        <target state="needs-translation">Connect Gmail Account</target>
+        <target state="translated">Gmail 계정에 연결</target>
       </trans-unit>
       <trans-unit id="6630732552154686829" datatype="html">
         <source>Connect Outlook Account</source>
@@ -8423,7 +8423,7 @@
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
           <context context-type="linenumber">23</context>
         </context-group>
-        <target state="needs-translation">Connect Outlook Account</target>
+        <target state="translated">아웃룩 계정에 연결</target>
       </trans-unit>
       <trans-unit id="2188854519574316630" datatype="html">
         <source>Server</source>
@@ -8507,7 +8507,7 @@
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">101</context>
         </context-group>
-        <target state="needs-translation">OAuth2 authentication success</target>
+        <target state="translated">OAuth2 인증 성공</target>
       </trans-unit>
       <trans-unit id="9022978370268070156" datatype="html">
         <source>OAuth2 authentication failed, see logs for details</source>
@@ -8515,7 +8515,7 @@
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">112</context>
         </context-group>
-        <target state="needs-translation">OAuth2 authentication failed, see logs for details</target>
+        <target state="translated">OAuth2 인증에 실패함, 세부사항에 대한 로그를 확인</target>
       </trans-unit>
       <trans-unit id="6327501535846658797" datatype="html">
         <source>Saved account &quot;<x id="PH" equiv-text="newMailAccount.name"/>&quot;.</source>
@@ -8603,7 +8603,7 @@
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
           <context context-type="linenumber">227</context>
         </context-group>
-        <target state="needs-translation">Error toggling rule.</target>
+        <target state="translated">규칙 전환 오류.</target>
       </trans-unit>
       <trans-unit id="3896080636020672118" datatype="html">
         <source>Confirm delete mail rule</source>
@@ -8967,7 +8967,7 @@
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.ts</context>
           <context context-type="linenumber">139</context>
         </context-group>
-        <target state="needs-translation">Enabled workflow</target>
+        <target state="translated">워크플로 활성화</target>
       </trans-unit>
       <trans-unit id="6035681056091592756" datatype="html">
         <source>Disabled workflow</source>
@@ -8975,7 +8975,7 @@
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.ts</context>
           <context context-type="linenumber">140</context>
         </context-group>
-        <target state="needs-translation">Disabled workflow</target>
+        <target state="translated">워크플로 비활성화</target>
       </trans-unit>
       <trans-unit id="1376040678213338380" datatype="html">
         <source>Error toggling workflow.</source>
@@ -8983,7 +8983,7 @@
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.ts</context>
           <context context-type="linenumber">146</context>
         </context-group>
-        <target state="needs-translation">Error toggling workflow.</target>
+        <target state="translated">워크플로 전환 오류.</target>
       </trans-unit>
       <trans-unit id="2649252321173430744" datatype="html">
         <source>Not Found</source>
@@ -9007,7 +9007,7 @@
           <context context-type="sourcefile">src/app/data/custom-field-query.ts</context>
           <context context-type="linenumber">24</context>
         </context-group>
-        <target state="needs-translation">Equal to</target>
+        <target state="translated"/>
       </trans-unit>
       <trans-unit id="2841739558138901231" datatype="html">
         <source>In</source>
@@ -9900,7 +9900,7 @@
           <context context-type="sourcefile">src/app/services/settings.service.ts</context>
           <context context-type="linenumber">148</context>
         </context-group>
-        <target state="needs-translation">Korean</target>
+        <target state="translated">한국어</target>
       </trans-unit>
       <trans-unit id="1334425850005897370" datatype="html">
         <source>Luxembourgish</source>
